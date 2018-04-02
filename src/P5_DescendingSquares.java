@@ -6,9 +6,9 @@
 
 /* 6. Your pseudocode algorithm here
 
-for ( start at 10, go until it reaches 1, descending )
-square = number * number
-print out result with a space
+loop 10 down to 1 
+perform square root 
+print result 
 
 */
 

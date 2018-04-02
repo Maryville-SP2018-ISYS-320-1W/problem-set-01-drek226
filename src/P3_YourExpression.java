@@ -1,7 +1,7 @@
 /*
   	ISYS 320
-  	Name(s):
-  	Date: 
+  	Name(s):Derek Rieger
+  	Date: 4/1/18
 */
 public class P3_YourExpression {
 

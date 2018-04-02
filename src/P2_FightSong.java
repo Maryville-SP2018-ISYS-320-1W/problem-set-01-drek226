@@ -1,7 +1,28 @@
 /*
   	ISYS 320
-  	Name(s):
-  	Date: 
+  	Name(s):Derek Rieger
+  	Date: 4/1/18
+  	
+Go, team, go!
+You can do it.
+
+Go, team, go!
+You can do it.
+You're the best,
+In the West.
+Go, team go!
+You can do it.
+
+Go, team, go!
+You can do it.
+You're the best,
+In the West.
+Go, team go!
+You can do it.
+
+Go, team go!
+You can do it.
+
 */
 
 public class P2_FightSong {

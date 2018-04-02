@@ -6,10 +6,8 @@
 
 /* 4. Your pseudocode algorithm here
 
-for( 6 lines )
-	for( 6 stars per line)
-		print("*")
-		print new line
+loop 6 lines
+print 6 star on each line 
 
 */
 public class P7_NestedLoopBox {
